@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b6830d7-479e-4ff7-b189-e4c836b11099" name="Changes" comment="TP - MAP_REDUCE 2 | Nombres de ventes par ville">
+    <list default="true" id="0b6830d7-479e-4ff7-b189-e4c836b11099" name="Changes" comment="TP - MAP_REDUCE 2 | Total montant par ville">
+      <change afterPath="$PROJECT_DIR$/src/main/java/VentesDateMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VentesDateReducer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/VentesMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/VentesMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ventes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ventes.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647271410318</updated>
-      <workItem from="1647271411652" duration="1704000" />
+      <workItem from="1647271411652" duration="3174000" />
     </task>
     <task id="LOCAL-00001" summary="TP - MAP_REDUCE 2 | Nombres de ventes par ville">
       <created>1647273134594</created>
@@ -88,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647273366592</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="TP - MAP_REDUCE 2 | Total montant par ville">
+      <created>1647273656852</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1647273656852</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +118,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="TP - MAP_REDUCE 2 | Nombres de ventes par ville" />
-    <option name="LAST_COMMIT_MESSAGE" value="TP - MAP_REDUCE 2 | Nombres de ventes par ville" />
+    <MESSAGE value="TP - MAP_REDUCE 2 | Total montant par ville" />
+    <option name="LAST_COMMIT_MESSAGE" value="TP - MAP_REDUCE 2 | Total montant par ville" />
   </component>
 </project>
