@@ -13,7 +13,7 @@ public class VentesMapper extends MapReduceBase
 
     @Override
     public void map(LongWritable key, Text value, OutputCollector<Text, IntWritable> output, Reporter reporter) throws IOException {
-        String ville = value.toString().split(" ")[1];
-        output.collect(new Text(ville),new IntWritable(1));
+        String ventes[] = value.toString().split(" ");
+        output.collect(new Text(ventes[1]),new IntWritable(Integer.valueOf(ventes[3])));
     }
 }

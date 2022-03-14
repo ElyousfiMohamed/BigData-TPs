@@ -4,25 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b6830d7-479e-4ff7-b189-e4c836b11099" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/.part-00000.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/part-00000" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VentesMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VentesReducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ventes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP - MAP_REDUCE/output/._SUCCESS.crc" beforeDir="false" afterPath="$PROJECT_DIR$/output/._SUCCESS.crc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP - MAP_REDUCE/output/.part-00000.crc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP - MAP_REDUCE/output/_SUCCESS" beforeDir="false" afterPath="$PROJECT_DIR$/output/_SUCCESS" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP - MAP_REDUCE/output/part-00000" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP - MAP_REDUCE/src/main/java/Applciation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE/src/main/java/Applciation.java" afterDir="false" />
+    <list default="true" id="0b6830d7-479e-4ff7-b189-e4c836b11099" name="Changes" comment="TP - MAP_REDUCE 2 | Nombres de ventes par ville">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/VentesMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/VentesMapper.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,12 +27,15 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="26NkPWWvx8o9HmPj4Z6NHLw5jLn" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -85,11 +72,42 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647271410318</updated>
-      <workItem from="1647271411652" duration="1239000" />
+      <workItem from="1647271411652" duration="1704000" />
     </task>
+    <task id="LOCAL-00001" summary="TP - MAP_REDUCE 2 | Nombres de ventes par ville">
+      <created>1647273134594</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647273134594</updated>
+    </task>
+    <task id="LOCAL-00002" summary="TP - MAP_REDUCE 2 | Nombres de ventes par ville">
+      <created>1647273366592</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1647273366592</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="TP - MAP_REDUCE 2 | Nombres de ventes par ville" />
+    <option name="LAST_COMMIT_MESSAGE" value="TP - MAP_REDUCE 2 | Nombres de ventes par ville" />
   </component>
 </project>
