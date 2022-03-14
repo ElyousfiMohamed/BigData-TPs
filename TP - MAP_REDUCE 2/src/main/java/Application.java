@@ -3,17 +3,16 @@ import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapred.*;
 
-import javax.ws.rs.core.Application;
 import java.io.IOException;
 
-public class Applciation {
+public class Application {
     public static void main(String[] args) throws IOException {
         JobConf conf = new JobConf();
-        conf.setJobName("Nombre de mots");
-        conf.setJarByClass(Applciation.class);
+        conf.setJobName("Nombre de ventes");
+        conf.setJarByClass(Application.class);
 
-        conf.setMapperClass(OccurencesMapper.class);
-        conf.setReducerClass(OccurencesReduce.class);
+        conf.setMapperClass(VentesMapper.class);
+        conf.setReducerClass(VentesReducer.class);
 
         conf.setOutputKeyClass(Text.class);
         conf.setOutputValueClass(IntWritable.class);
@@ -21,7 +20,7 @@ public class Applciation {
         conf.setInputFormat(TextInputFormat.class);
         conf.setOutputFormat(TextOutputFormat.class);
 
-        FileInputFormat.addInputPath(conf,new Path("prenom.txt"));
+        FileInputFormat.addInputPath(conf,new Path("ventes.txt"));
         FileOutputFormat.setOutputPath(conf,new Path("./output"));
 
         JobClient.runJob(conf);
