@@ -4,22 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b6830d7-479e-4ff7-b189-e4c836b11099" name="Changes" comment="TP - MAP_REDUCE 2 | Total montant par ville">
-      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/employees.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/src/main/java/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/src/main/java/Employee2Mapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/src/main/java/Employee2Reducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/src/main/java/EmployeeMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/src/main/java/EmployeeReducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/src/main/java/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Application.java" afterDir="false" />
+    <list default="true" id="0b6830d7-479e-4ff7-b189-e4c836b11099" name="Changes" comment="TP - MAP_REDUCE 3 | MinMax Salary &amp; NbrEmpParDepartement">
+      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/TP - MAP_REDUCE 3/.idea/TP - MAP_REDUCE 3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/TP - MAP_REDUCE 3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/TP - MAP_REDUCE 3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/MAP_REDUCE3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/employees.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/output/._SUCCESS.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/output/.part-00000.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/output/_SUCCESS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/output/part-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/output2/._SUCCESS.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/output2/.part-00000.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/output2/_SUCCESS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/output2/part-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/src/main/java/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/src/main/java/Employee2Mapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/src/main/java/Employee2Reducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/src/main/java/EmployeeMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/src/main/java/EmployeeReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/src/main/java/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/employees.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/src/main/java/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/src/main/java/Employee2Mapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/src/main/java/Employee2Reducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/src/main/java/EmployeeMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/src/main/java/EmployeeReducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/src/main/java/test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +112,7 @@
       <workItem from="1647865509566" duration="31000" />
       <workItem from="1647868190309" duration="2477000" />
       <workItem from="1647871525638" duration="396000" />
-      <workItem from="1647872311513" duration="1678000" />
+      <workItem from="1647872311513" duration="1984000" />
     </task>
     <task id="LOCAL-00001" summary="TP - MAP_REDUCE 2 | Nombres de ventes par ville">
       <created>1647273134594</created>
@@ -112,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647273656852</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="TP - MAP_REDUCE 3 | MinMax Salary &amp; NbrEmpParDepartement">
+      <created>1647874657194</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1647874657194</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,7 +168,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="TP - MAP_REDUCE 2 | Nombres de ventes par ville" />
     <MESSAGE value="TP - MAP_REDUCE 2 | Total montant par ville" />
-    <option name="LAST_COMMIT_MESSAGE" value="TP - MAP_REDUCE 2 | Total montant par ville" />
+    <MESSAGE value="TP - MAP_REDUCE 3 | MinMax Salary &amp; NbrEmpParDepartement" />
+    <option name="LAST_COMMIT_MESSAGE" value="TP - MAP_REDUCE 3 | MinMax Salary &amp; NbrEmpParDepartement" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

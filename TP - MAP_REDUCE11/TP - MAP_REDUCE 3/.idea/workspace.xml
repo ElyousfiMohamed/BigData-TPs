@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c5c46e9a-2a9a-461e-8d4e-cdfeb0f6cdcb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../TP - MAP_REDUCE 3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TP - MAP_REDUCE 3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TP - MAP_REDUCE 3/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TP - MAP_REDUCE 3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TP - MAP_REDUCE 3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TP - MAP_REDUCE 3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TP - MAP_REDUCE 3/employees.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TP - MAP_REDUCE 3/output/._SUCCESS.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TP - MAP_REDUCE 3/output/.part-00000.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TP - MAP_REDUCE 3/output/_SUCCESS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TP - MAP_REDUCE 3/output/part-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TP - MAP_REDUCE 3/output2/._SUCCESS.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TP - MAP_REDUCE 3/output2/.part-00000.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TP - MAP_REDUCE 3/output2/_SUCCESS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TP - MAP_REDUCE 3/output2/part-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TP - MAP_REDUCE 3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TP - MAP_REDUCE 3/src/main/java/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TP - MAP_REDUCE 3/src/main/java/Employee2Mapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TP - MAP_REDUCE 3/src/main/java/Employee2Reducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TP - MAP_REDUCE 3/src/main/java/EmployeeMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TP - MAP_REDUCE 3/src/main/java/EmployeeReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TP - MAP_REDUCE 3/src/main/java/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP - MAP_REDUCE 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../TP - MAP_REDUCE 2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP - MAP_REDUCE 3/MAP_REDUCE3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP - MAP_REDUCE 3/MAP_REDUCE3/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP - MAP_REDUCE 3/MAP_REDUCE3/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP - MAP_REDUCE 3/MAP_REDUCE3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP - MAP_REDUCE 3/MAP_REDUCE3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP - MAP_REDUCE 3/MAP_REDUCE3/employees.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP - MAP_REDUCE 3/MAP_REDUCE3/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP - MAP_REDUCE 3/MAP_REDUCE3/src/main/java/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP - MAP_REDUCE 3/MAP_REDUCE3/src/main/java/Employee2Mapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP - MAP_REDUCE 3/MAP_REDUCE3/src/main/java/Employee2Reducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP - MAP_REDUCE 3/MAP_REDUCE3/src/main/java/EmployeeMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP - MAP_REDUCE 3/MAP_REDUCE3/src/main/java/EmployeeReducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP - MAP_REDUCE 3/MAP_REDUCE3/src/main/java/test.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26hMECE8gJGKaVxpOBdKt65MlgQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/elyousfi/IdeaProjects/BigData-TPs/TP - MAP_REDUCE11/TP - MAP_REDUCE 3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../.." />
+      <recent name="$PROJECT_DIR$/../../" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
+      <module name="MAP_REDUCE3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="MAP_REDUCE3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5c46e9a-2a9a-461e-8d4e-cdfeb0f6cdcb" name="Changes" comment="" />
+      <created>1647871252616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647871252616</updated>
+      <workItem from="1647871254130" duration="243000" />
+      <workItem from="1647871541001" duration="598000" />
+      <workItem from="1647872310105" duration="2117000" />
+      <workItem from="1647874940579" duration="73000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
