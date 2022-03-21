@@ -21,7 +21,10 @@ public class Application {
         conf.setOutputFormat(TextOutputFormat.class);
 
         FileInputFormat.addInputPath(conf,new Path("ventes.txt"));
-        FileOutputFormat.setOutputPath(conf,new Path("./output"));*/
+        FileOutputFormat.setOutputPath(conf,new Path("./output"));
+
+        JobClient.runJob(conf);
+        */
 
         // ###################################################################"
 
@@ -40,7 +43,7 @@ public class Application {
 
         FileInputFormat.addInputPath(conf2,new Path("ventes.txt"));
         FileOutputFormat.setOutputPath(conf2,new Path("./output2"));
-        //JobClient.runJob(conf);
+
         JobClient.runJob(conf2);
     }
 }

@@ -5,11 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b6830d7-479e-4ff7-b189-e4c836b11099" name="Changes" comment="TP - MAP_REDUCE 2 | Total montant par ville">
-      <change afterPath="$PROJECT_DIR$/src/main/java/VentesDateMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VentesDateReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/employees.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/src/main/java/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/src/main/java/Employee2Mapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/src/main/java/Employee2Reducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/src/main/java/EmployeeMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/src/main/java/EmployeeReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/src/main/java/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ventes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ventes.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,35 +47,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/elyousfi/IdeaProjects/BigData-TPs/TP - MAP_REDUCE 2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Application" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Application" />
       <module name="TP - MAP_REDUCE 2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Application" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -76,6 +86,10 @@
       <option name="presentableId" value="Default" />
       <updated>1647271410318</updated>
       <workItem from="1647271411652" duration="3174000" />
+      <workItem from="1647865509566" duration="31000" />
+      <workItem from="1647868190309" duration="2477000" />
+      <workItem from="1647871525638" duration="396000" />
+      <workItem from="1647872311513" duration="1678000" />
     </task>
     <task id="LOCAL-00001" summary="TP - MAP_REDUCE 2 | Nombres de ventes par ville">
       <created>1647273134594</created>
@@ -104,6 +118,11 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:com.google.protobuf:protobuf-java" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hadoop:hadoop-common" />
+    <option featureType="dependencySupport" implementationName="java:com.google.inject:guice" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -120,5 +139,19 @@
     <MESSAGE value="TP - MAP_REDUCE 2 | Nombres de ventes par ville" />
     <MESSAGE value="TP - MAP_REDUCE 2 | Total montant par ville" />
     <option name="LAST_COMMIT_MESSAGE" value="TP - MAP_REDUCE 2 | Total montant par ville" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Application.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TP___MAP_REDUCE_2$Application.ic" NAME="Application Coverage Results" MODIFIED="1647868570500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
