@@ -5,44 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b6830d7-479e-4ff7-b189-e4c836b11099" name="Changes" comment="TP - MAP_REDUCE 3 | MinMax Salary &amp; NbrEmpParDepartement">
-      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/TP - MAP_REDUCE 3/.idea/TP - MAP_REDUCE 3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/TP - MAP_REDUCE 3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/TP - MAP_REDUCE 3/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/MAP_REDUCE3/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/employees.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/output/._SUCCESS.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/output/.part-00000.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/output/_SUCCESS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/output/part-00000" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/output2/._SUCCESS.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/output2/.part-00000.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/output2/_SUCCESS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/output2/part-00000" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/src/main/java/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/src/main/java/Employee2Mapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/src/main/java/Employee2Reducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/src/main/java/EmployeeMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/src/main/java/EmployeeReducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/src/main/java/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/employees.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/src/main/java/Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/src/main/java/Employee2Mapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/src/main/java/Employee2Reducer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/src/main/java/EmployeeMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/src/main/java/EmployeeReducer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/MAP_REDUCE3/src/main/java/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/.idea/TP - MAP_REDUCE 3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE 3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP - MAP_REDUCE11/TP - MAP_REDUCE 3/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,22 +37,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/elyousfi/IdeaProjects/BigData-TPs/TP - MAP_REDUCE 2&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/elyousfi/IdeaProjects/BigData-TPs/TP - MAP_REDUCE 2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java" />
@@ -112,7 +80,7 @@
       <workItem from="1647865509566" duration="31000" />
       <workItem from="1647868190309" duration="2477000" />
       <workItem from="1647871525638" duration="396000" />
-      <workItem from="1647872311513" duration="1984000" />
+      <workItem from="1647872311513" duration="2157000" />
     </task>
     <task id="LOCAL-00001" summary="TP - MAP_REDUCE 2 | Nombres de ventes par ville">
       <created>1647273134594</created>
