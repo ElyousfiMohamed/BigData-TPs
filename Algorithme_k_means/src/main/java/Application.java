@@ -61,9 +61,7 @@ public class Application {
                 }
             }
 
-            for (Cluster c : clusters) {
-                System.out.println(c.getCenter()+" : "+c.getPoints());
-            }
+
 
             for (Cluster c: clusters) {
                 c.getPoints().clear();
