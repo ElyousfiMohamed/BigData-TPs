@@ -5,6 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="112ede26-66ed-408d-b009-6da3f836bf69" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_point/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_point/.idea/artifacts/Kmeans_Impl_point_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_point/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_point/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_point/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_point/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_point/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_point/.~lock.points.csv#" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_point/center.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_point/output/._SUCCESS.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_point/output/.part-r-00000.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_point/output/_SUCCESS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_point/output/part-r-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_point/points.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_point/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_point/src/main/java/entities/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_point/src/main/java/kMeansDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_point/src/main/java/kMeansMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_point/src/main/java/kMeansReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_point/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../K_means_mapReduce/src/main/java/kMeansDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../K_means_mapReduce/src/main/java/kMeansDriver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,23 +52,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/elyousfi/IdeaProjects/BigData-TPs/TP - MAP_REDUCE 4&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
-  }
-}</component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java" />
@@ -93,6 +103,7 @@
       <workItem from="1647979251018" duration="340000" />
       <workItem from="1648476576279" duration="858000" />
       <workItem from="1648478490874" duration="906000" />
+      <workItem from="1649542067621" duration="1228000" />
     </task>
     <servers />
   </component>

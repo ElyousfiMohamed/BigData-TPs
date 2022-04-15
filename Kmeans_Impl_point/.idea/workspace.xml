@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c57cec54-358a-4800-be19-bf599e85d4e5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_Image/Kmeans_Impl_Image/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_Image/Kmeans_Impl_Image/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_Image/Kmeans_Impl_Image/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_Image/Kmeans_Impl_Image/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_Image/Kmeans_Impl_Image/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_Image/Kmeans_Impl_Image/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_Image/Kmeans_Impl_Image/center.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_Image/Kmeans_Impl_Image/output/._SUCCESS.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_Image/Kmeans_Impl_Image/output/.part-r-00000.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_Image/Kmeans_Impl_Image/output/_SUCCESS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_Image/Kmeans_Impl_Image/output/part-r-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_Image/Kmeans_Impl_Image/pixels.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_Image/Kmeans_Impl_Image/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_Image/Kmeans_Impl_Image/src/main/java/entities/Pixel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_Image/Kmeans_Impl_Image/src/main/java/kMeansDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_Image/Kmeans_Impl_Image/src/main/java/kMeansMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_Image/Kmeans_Impl_Image/src/main/java/kMeansReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_Image/Kmeans_Impl_Image/src/main/resources/brain_mri.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_Image/Kmeans_Impl_Image/target/classes/brain_mri.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_Image/test/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_Image/test/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_Image/test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_Image/test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_Image/test/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_Image/test/center.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_Image/test/pixels.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_Image/test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_Image/test/src/main/java/entities/Pixel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_Image/test/src/main/java/kMeansDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_Image/test/src/main/java/kMeansMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans_Impl_Image/test/src/main/java/kMeansReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Kmeans_Impl_point_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.~lock.points.csv#" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/points.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kMeansDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kMeansMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kMeansReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spark/names" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spark/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spark/src/main/java/Spark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../K_means_mapReduce/src/main/java/kMeansDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../K_means_mapReduce/src/main/java/kMeansDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP - MAP_REDUCE 4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TP - MAP_REDUCE 4/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/entities/Point.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/kMeansDriver.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/kMeansMapper.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/kMeansReducer.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27YzrlGcdm4TVp44TNNgi0V1Ig2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="kMeansDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kMeansDriver" />
+      <module name="Kmeans_Impl_point" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.kMeansDriver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c57cec54-358a-4800-be19-bf599e85d4e5" name="Changes" comment="" />
+      <created>1649512009368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649512009368</updated>
+      <workItem from="1649512010749" duration="39000" />
+      <workItem from="1649512065024" duration="3186000" />
+      <workItem from="1649540457124" duration="6706000" />
+      <workItem from="1649548647781" duration="1619000" />
+      <workItem from="1649592472529" duration="13000" />
+      <workItem from="1649724262744" duration="785000" />
+      <workItem from="1649855935444" duration="4372000" />
+      <workItem from="1649860344976" duration="1647000" />
+      <workItem from="1649944355285" duration="56000" />
+      <workItem from="1649977722740" duration="1526000" />
+      <workItem from="1650024516004" duration="758000" />
+      <workItem from="1650034054426" duration="4087000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:com.google.protobuf:protobuf-java" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hadoop:hadoop-common" />
+    <option featureType="dependencySupport" implementationName="java:com.google.inject:guice" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Kmeans_Impl_point$kMeansDriver.ic" NAME="kMeansDriver Coverage Results" MODIFIED="1649550071162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

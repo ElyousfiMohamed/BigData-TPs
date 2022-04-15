@@ -22,6 +22,7 @@ public class kMeansDriver {
 
         job.setOutputKeyClass(DoubleWritable.class);
         job.setOutputValueClass(DoubleWritable.class);
+
         job.setMapOutputKeyClass(DoubleWritable.class);
         job.setMapOutputValueClass(DoubleWritable.class);
 
