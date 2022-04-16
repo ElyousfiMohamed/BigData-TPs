@@ -5,7 +5,7 @@ import org.apache.hadoop.mapreduce.Reducer;
 import java.io.IOException;
 import java.util.Iterator;
 
-public class KmeansReducer extends Reducer<Text,Text,Text,Text> {
+public class KmeansReducer extends Reducer<Text, Text, Text, Text> {
 
     @Override
     protected void reduce(Text key, Iterable<Text> values, Reducer<Text, Text, Text, Text>.Context context) throws IOException, InterruptedException {
@@ -21,6 +21,6 @@ public class KmeansReducer extends Reducer<Text,Text,Text,Text> {
         }
 
         center = somme / nb_points;
-        context.write(key,new Text(String.valueOf(center)));
+        context.write(key, new Text(String.valueOf(center)));
     }
 }

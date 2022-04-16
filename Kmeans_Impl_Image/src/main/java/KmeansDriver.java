@@ -99,7 +99,9 @@ public class KmeansDriver {
                 if (done)
                     break;
 
-                bw.close(); br.close(); fs.delete(f, true);
+                bw.close();
+                br.close();
+                fs.delete(f, true);
             }
         }
 

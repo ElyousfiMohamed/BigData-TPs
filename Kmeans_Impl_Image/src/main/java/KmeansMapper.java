@@ -44,9 +44,9 @@ public class KmeansMapper extends Mapper<LongWritable, Text, Text, Text> {
             }
         }
 
-        FileWriter fw = new FileWriter("./output/"+nearestCenter+"_center.kmeans", true);
+        FileWriter fw = new FileWriter("./output/" + nearestCenter + "_center.kmeans", true);
         BufferedWriter bw = new BufferedWriter(fw);
-        bw.append(p+"\n");
+        bw.append(p + "\n");
         bw.close();
 
         context.write(new Text(String.valueOf(nearestCenter)), new Text(p.toString()));
