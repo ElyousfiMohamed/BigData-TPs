@@ -5,7 +5,7 @@ import org.apache.hadoop.mapreduce.Reducer;
 import java.io.IOException;
 import java.util.Iterator;
 
-public class kMeansReducer extends Reducer<Text,Text,Text,Text> {
+public class KmeansReducer extends Reducer<Text,Text,Text,Text> {
 
     @Override
     protected void reduce(Text key, Iterable<Text> values, Reducer<Text, Text, Text, Text>.Context context) throws IOException, InterruptedException {
@@ -15,7 +15,7 @@ public class kMeansReducer extends Reducer<Text,Text,Text,Text> {
 
         while (it.hasNext()) {
             String[] x_y_color = it.next().toString().split(" ");
-            Pixel p = new Pixel(Double.parseDouble(x_y_color[0]), Double.parseDouble(x_y_color[1]), Integer.parseInt(x_y_color[2]));
+            Pixel p = new Pixel(Integer.parseInt(x_y_color[0]), Integer.parseInt(x_y_color[1]), Integer.parseInt(x_y_color[2]));
             somme += p.getColor();
             nb_points++;
         }
