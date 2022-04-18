@@ -5,6 +5,7 @@ import org.apache.spark.SparkConf;
 import org.apache.spark.api.java.JavaPairRDD;
 import org.apache.spark.api.java.JavaRDD;
 import org.apache.spark.api.java.JavaSparkContext;
+import org.apache.spark.storage.StorageLevel;
 import scala.Tuple2;
 
 import java.util.Arrays;
@@ -33,6 +34,5 @@ public class SparkTP7Ex2 {
 
         JavaPairRDD<String,Integer> rddReduce2=rddMap2.reduceByKey((v1, v2) -> v1+v2);
         System.out.println(rddReduce2.collect());
-
     }
 }
