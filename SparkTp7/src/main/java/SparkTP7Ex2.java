@@ -23,16 +23,18 @@ public class SparkTP7Ex2 {
         // Question 1
         JavaRDD<String> rdd0 = sc.textFile("ventes.txt");
         JavaPairRDD<String,Integer> rddMap = rdd0.mapToPair(s-> new Tuple2<>(s.split(" ")[1],Integer.parseInt(s.split(" ")[3])));
-        System.out.println(rddMap.collect());
+        System.out.println("Question 1 : "+rddMap.collect());
 
         JavaPairRDD<String,Integer> rddReduce=rddMap.reduceByKey((v1, v2) -> v1+v2);
-        System.out.println(rddReduce.collect());
+        System.out.println("Sorted : "+rddReduce.collect());
 
         // Question 2
-        JavaPairRDD<String,Integer> rddMap2 = rdd0.mapToPair(s-> new Tuple2<>("Total des ventes en "+s.split(" ")[0]+"  dans la ville "+s.split(" ")[1],Integer.parseInt(s.split(" ")[3])));
-        System.out.println(rddMap2.collect());
+        JavaPairRDD<String,Integer> rddMap2 = rdd0
+                .mapToPair(s-> new Tuple2<>("Total des ventes en "+s.split(" ")[0]+"  dans la ville "
+                        +s.split(" ")[1],Integer.parseInt(s.split(" ")[3])));
+        System.out.println("Question 2 : "+rddMap2.collect());
 
         JavaPairRDD<String,Integer> rddReduce2=rddMap2.reduceByKey((v1, v2) -> v1+v2);
-        System.out.println(rddReduce2.collect());
+        System.out.println("Sorted : "+rddReduce2.collect());
     }
 }
