@@ -5,27 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1cf4c625-0eac-412b-b1e0-3d0e93ebdbe9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/employees.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sparkStreaming/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sparkStreaming/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sparkStreaming/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sparkStreaming/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sparkStreaming/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sparkStreaming/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sparkStreaming/src/test/java/SparkStreaming1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sparkStreaming/src/test/java/SparkStreaming2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sparkStreaming/src/test/java/SparkStreaming3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sparkStreaming/users.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sparkStreaming/words1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sparkStreaming/words2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SparkTp7/src/main/java/SparkTP7Ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTp7/src/main/java/SparkTP7Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employees.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AppDataframeCSVSql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AppDataframeJSON.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AppDataframeJSONSql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AppDatasetCSV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AppDatasetCSVSql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AppDatasetJSON.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AppDatasetJSONSql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Model/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AppDataframeCSV.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,20 +46,52 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
-  }
-}</component>
-  <component name="RunManager">
-    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Application" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GITHUB\BigData-TPs\SparkSQL\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AppDataframeCSVSql">
+    <configuration name="AppDataframeCSV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AppDataframeCSV" />
+      <module name="SparkSQL" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppDataframeCSVSql" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AppDataframeCSVSql" />
+      <module name="SparkSQL" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppDatasetCSVSql" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AppDatasetCSVSql" />
+      <module name="SparkSQL" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppDatasetJSON" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AppDatasetJSON" />
+      <module name="SparkSQL" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppDatasetJSONSql" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AppDatasetJSONSql" />
       <module name="SparkSQL" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,7 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Application" />
+        <item itemvalue="Application.AppDataframeCSVSql" />
+        <item itemvalue="Application.AppDataframeCSV" />
+        <item itemvalue="Application.AppDatasetCSVSql" />
+        <item itemvalue="Application.AppDatasetJSONSql" />
+        <item itemvalue="Application.AppDatasetJSON" />
       </list>
     </recent_temporary>
   </component>
@@ -91,6 +120,7 @@
       <workItem from="1652283139361" duration="299000" />
       <workItem from="1652283450073" duration="415000" />
       <workItem from="1652284670504" duration="80000" />
+      <workItem from="1652538505636" duration="10794000" />
     </task>
     <servers />
   </component>
